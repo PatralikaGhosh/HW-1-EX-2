@@ -84,3 +84,6 @@ git pull
 ## Resources:
 Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf  
 GitHub Documentation: https://docs.github.com/en/repositories
+
+## NAME: PATRALIKA GHOSH
+Git-Exercise: STAT ID 927
